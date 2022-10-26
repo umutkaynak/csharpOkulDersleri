@@ -1,0 +1,11 @@
+D:\Visual Studio\2.hafta\bin\Debug\2.hafta.exe.config
+D:\Visual Studio\2.hafta\bin\Debug\2.hafta.exe
+D:\Visual Studio\2.hafta\bin\Debug\2.hafta.pdb
+D:\Visual Studio\2.hafta\obj\Debug\2.hafta.csproj.AssemblyReference.cache
+D:\Visual Studio\2.hafta\obj\Debug\2.hafta.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\2.hafta\obj\Debug\_2.hafta.Form1.resources
+D:\Visual Studio\2.hafta\obj\Debug\_2.hafta.Properties.Resources.resources
+D:\Visual Studio\2.hafta\obj\Debug\2.hafta.csproj.GenerateResource.cache
+D:\Visual Studio\2.hafta\obj\Debug\2.hafta.csproj.CoreCompileInputs.cache
+D:\Visual Studio\2.hafta\obj\Debug\2.hafta.exe
+D:\Visual Studio\2.hafta\obj\Debug\2.hafta.pdb
