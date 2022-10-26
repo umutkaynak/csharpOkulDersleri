@@ -1,0 +1,11 @@
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\bin\Debug\sesliharf.exe.config
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\bin\Debug\sesliharf.exe
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\bin\Debug\sesliharf.pdb
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.csproj.AssemblyReference.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.Form1.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.Properties.Resources.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.csproj.GenerateResource.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.csproj.CoreCompileInputs.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.exe
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\sesliharf\sesliharf\obj\Debug\sesliharf.pdb
