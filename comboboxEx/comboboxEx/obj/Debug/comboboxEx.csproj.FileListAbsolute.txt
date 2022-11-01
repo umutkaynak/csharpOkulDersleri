@@ -1,0 +1,11 @@
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\bin\Debug\comboboxEx.exe.config
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\bin\Debug\comboboxEx.exe
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\bin\Debug\comboboxEx.pdb
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.csproj.AssemblyReference.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.Form1.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.Properties.Resources.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.csproj.GenerateResource.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.csproj.CoreCompileInputs.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.exe
+C:\Users\umutk\OneDrive\Masaüstü\c#ders\comboboxEx\comboboxEx\obj\Debug\comboboxEx.pdb
